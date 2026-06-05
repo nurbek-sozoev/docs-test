@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 .idea
 .wrangler
+site/
 __pycache__/
 *.py[codz]
 *$py.class
